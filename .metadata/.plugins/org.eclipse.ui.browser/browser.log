@@ -1,0 +1,163 @@
+
+Aug 06, 2022 13:15:03.12 NEW SESSION
+Aug 06, 2022 13:15:03.12 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 06, 2022 13:15:03.12 [2022-08-06T07:45:03Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 06, 2022 13:15:07.27 [2022-08-06T07:45:07Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping newtab
+
+Aug 07, 2022 14:27:34.48 NEW SESSION
+Aug 07, 2022 14:27:34.48 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 07, 2022 14:27:34.48 [2022-08-07T08:57:34Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 07, 2022 15:55:56.63 [2022-08-07T10:25:56Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 07, 2022 15:55:56.64 [2022-08-07T10:25:56Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Aug 08, 2022 15:45:55.88 NEW SESSION
+Aug 08, 2022 15:45:55.88 [2022-08-08T10:15:55Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 08, 2022 15:45:55.89 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 08, 2022 16:01:51.22 [2022-08-08T10:31:51Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:01:51.23 [2022-08-08T10:31:51Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:01:51.24 [2022-08-08T10:31:51Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:01:51.33 [Parent 13988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 08, 2022 16:02:16.57 [2022-08-08T10:32:16Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:02:16.58 [2022-08-08T10:32:16Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:02:33.02 [2022-08-08T10:32:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:02:33.03 [2022-08-08T10:32:33Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:07:46.47 [2022-08-08T10:37:46Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:07:46.48 [2022-08-08T10:37:46Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:07:46.69 [Parent 18220, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+Aug 08, 2022 16:39:18.92 NEW SESSION
+Aug 08, 2022 16:39:18.92 [2022-08-08T11:09:18Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 08, 2022 16:39:18.93 [2022-08-08T11:09:18Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Aug 09, 2022 13:35:38.73 NEW SESSION
+Aug 09, 2022 13:35:38.73 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 09, 2022 13:35:38.76 [2022-08-09T08:05:38Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 09, 2022 15:01:25.40 [2022-08-09T09:31:25Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 09, 2022 15:01:25.48 [2022-08-09T09:31:25Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Aug 09, 2022 20:32:48.78 NEW SESSION
+Aug 09, 2022 20:32:48.78 [2022-08-09T15:02:48Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 09, 2022 20:32:48.80 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 09, 2022 20:58:59.21 [2022-08-09T15:28:59Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 09, 2022 20:58:59.45 [2022-08-09T15:28:59Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 09, 2022 20:59:05.71 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 09, 2022 20:59:05.71 [2022-08-09T15:29:05Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+
+Aug 10, 2022 11:06:53.42 NEW SESSION
+Aug 10, 2022 11:06:53.42 [2022-08-10T05:36:53Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 10, 2022 11:06:53.45 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 10, 2022 14:57:26.35 [2022-08-10T09:27:25Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 10, 2022 14:57:26.44 [2022-08-10T09:27:25Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 10, 2022 14:57:33.67 [Parent 14956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 10, 2022 14:57:33.79 [Parent 14956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 10, 2022 14:57:33.79 [Parent 14956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 10, 2022 14:57:33.79 [Parent 14956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 10, 2022 14:57:52.77 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 10, 2022 14:57:52.78 [2022-08-10T09:27:52Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 10, 2022 15:25:49.59 [2022-08-10T09:55:49Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 10, 2022 15:25:49.69 [2022-08-10T09:55:49Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 10, 2022 15:25:49.73 [Parent 9644, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 10, 2022 15:25:49.83 [Parent 9644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+Aug 10, 2022 15:25:56.82 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 10, 2022 15:25:56.83 [2022-08-10T09:55:56Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+
+Aug 10, 2022 20:45:54.77 NEW SESSION
+Aug 10, 2022 20:45:54.77 [2022-08-10T15:15:54Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 10, 2022 20:45:54.81 [GFX1-]: shader-cache: Timed out before finishing loads
+
+Aug 12, 2022 08:15:48.61 NEW SESSION
+Aug 12, 2022 08:15:48.61 [2022-08-12T02:45:48Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 12, 2022 08:15:48.64 [GFX1-]: shader-cache: Timed out before finishing loads
+
+Aug 14, 2022 14:01:35.02 NEW SESSION
+Aug 14, 2022 14:01:35.02 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 14, 2022 14:01:35.07 [2022-08-14T08:31:35Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+
+Aug 15, 2022 14:01:37.73 NEW SESSION
+Aug 15, 2022 14:01:37.73 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 15, 2022 14:01:37.75 [2022-08-15T08:31:37Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 15, 2022 14:03:20.37 [2022-08-15T08:33:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Aug 15, 2022 14:03:20.38 [2022-08-15T08:33:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Aug 15, 2022 14:03:20.38 [2022-08-15T08:33:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Aug 15, 2022 14:03:20.38 [2022-08-15T08:33:20Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+Aug 15, 2022 16:45:04.79 [Parent 3920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 15, 2022 16:45:04.93 [2022-08-15T11:15:04Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 15, 2022 16:45:05.08 [2022-08-15T11:15:05Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Aug 15, 2022 22:24:09.67 NEW SESSION
+Aug 15, 2022 22:24:09.67 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 15, 2022 22:24:09.72 [2022-08-15T16:54:09Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+
+Aug 16, 2022 08:23:57.42 NEW SESSION
+Aug 16, 2022 08:23:57.42 [2022-08-16T02:53:57Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 16, 2022 08:23:57.51 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 16, 2022 09:00:09.30 [Parent 18852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+Aug 16, 2022 15:07:04.64 NEW SESSION
+Aug 16, 2022 15:07:04.64 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 16, 2022 15:07:04.67 [2022-08-16T09:37:04Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+
+Aug 17, 2022 09:59:43.18 NEW SESSION
+Aug 17, 2022 09:59:43.18 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 17, 2022 09:59:43.25 [2022-08-17T04:29:43Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 17, 2022 09:59:48.11 [2022-08-17T04:29:48Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping newtab
+Aug 17, 2022 11:05:51.88 [Parent 10820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+Aug 17, 2022 22:33:20.18 NEW SESSION
+Aug 17, 2022 22:33:20.18 [2022-08-17T17:03:20Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 17, 2022 22:33:20.23 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 17, 2022 22:33:28.32 [2022-08-17T17:03:28Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 17, 2022 22:33:28.32 [2022-08-17T17:03:28Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 17, 2022 22:33:28.37 [Parent 14792, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 18, 2022 24:00:01.09 [Parent 12576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+Aug 18, 2022 08:55:14.62 NEW SESSION
+Aug 18, 2022 08:55:14.62 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 18, 2022 08:55:14.63 [2022-08-18T03:25:14Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 18, 2022 09:03:16.21 [2022-08-18T03:33:16Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 18, 2022 09:03:16.22 [2022-08-18T03:33:16Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Aug 18, 2022 15:26:57.85 NEW SESSION
+Aug 18, 2022 15:26:57.95 [Parent 3832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 18, 2022 15:26:58.01 [Parent 3832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 18, 2022 15:26:58.01 [Parent 3832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 18, 2022 15:26:58.01 [Parent 3832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 18, 2022 15:27:19.74 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 18, 2022 15:27:19.74 [2022-08-18T09:57:19Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+
+Aug 19, 2022 24:44:07.30 NEW SESSION
+Aug 19, 2022 24:44:07.30 [2022-08-18T19:14:06Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 19, 2022 24:44:07.30 [2022-08-18T19:14:06Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 19, 2022 24:44:08.80 [Parent 19804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+Aug 19, 2022 08:09:45.53 NEW SESSION
+Aug 19, 2022 08:09:45.53 [2022-08-19T02:39:45Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 19, 2022 08:09:45.56 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 19, 2022 09:36:19.04 [2022-08-19T04:06:19Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 19, 2022 09:36:19.21 [2022-08-19T04:06:19Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 19, 2022 09:36:19.56 [Parent 16940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+Aug 19, 2022 11:33:30.33 NEW SESSION
+Aug 19, 2022 11:33:30.33 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 19, 2022 11:33:30.44 [2022-08-19T06:03:30Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 19, 2022 15:19:21.06 [2022-08-19T09:49:21Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 19, 2022 15:19:23.14 [Parent 19328, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 19, 2022 15:19:23.14 [Parent 19328, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+Aug 22, 2022 18:24:38.37 NEW SESSION
+Aug 22, 2022 18:24:38.37 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 22, 2022 18:24:38.42 [2022-08-22T12:54:38Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+Aug 22, 2022 18:31:13.53 [2022-08-22T13:01:13Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 22, 2022 18:31:13.53 [2022-08-22T13:01:13Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 22, 2022 18:31:13.53 [2022-08-22T13:01:13Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 22, 2022 18:31:14.45 [Parent 12372, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Aug 22, 2022 22:46:15.39 [2022-08-22T17:16:15Z ERROR viaduct::backend::ffi] Missing HTTP status
+Aug 22, 2022 22:46:15.52 [2022-08-22T17:16:15Z ERROR viaduct::backend::ffi] Missing HTTP status
+
+Aug 23, 2022 21:07:47.84 NEW SESSION
+Aug 23, 2022 21:07:47.84 [GFX1-]: shader-cache: Timed out before finishing loads
+Aug 23, 2022 21:07:47.87 [2022-08-23T15:37:47Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads
+
+Sep 13, 2022 21:50:00.61 NEW SESSION
+Sep 13, 2022 21:50:00.61 [GFX1-]: shader-cache: Timed out before finishing loads
+Sep 13, 2022 21:50:00.73 [2022-09-13T16:20:00Z ERROR webrender_bindings::program_cache] shader-cache: Timed out before finishing loads

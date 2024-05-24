@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Project_03_CNGBooking/WebContent/cngPump.htm&apos; to &apos;cngPump.html&apos;" description="Rename resource &apos;cngPump.htm&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/cngPump.htm" name="cngPump.html" stamp="1661174274558" updateReferences="true"/>
+</session>
